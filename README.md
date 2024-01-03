@@ -11,12 +11,11 @@
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :></strong> Employee Attrition Status 
+              <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' />
                      </p>
-                     </Click>
-       </summary>
+        </summary>
 </details>
 
 ## The project pipeline can be summarized in the following steps: 
