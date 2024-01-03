@@ -14,7 +14,7 @@
               <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
         </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' />
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' style='width: 50%;' />
                      </p>
 </details>
 
