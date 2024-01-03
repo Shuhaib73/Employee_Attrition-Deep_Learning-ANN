@@ -9,6 +9,8 @@
 #### Objective
 ```The primary objective of this dataset is to assess and analyze the employment status of individuals based on the available data. By leveraging the information provided, the project aims to uncover insights into the factors contributing to terminations, identify patterns in employee turnover, and develop predictive models for future employment outcomes.```
 
+#### Exploratory Data Analysis (EDA)
+
 <details>
        <summary>
               <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
