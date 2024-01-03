@@ -9,6 +9,13 @@
 #### Objective
 ```The primary objective of this dataset is to assess and analyze the employment status of individuals based on the available data. By leveraging the information provided, the project aims to uncover insights into the factors contributing to terminations, identify patterns in employee turnover, and develop predictive models for future employment outcomes.```
 
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :></strong> The Visual Insights 
+              </Click>
+       </summary>
+</details>
+
 ## The project pipeline can be summarized in the following steps: 
 #### **Data Understanding and Exploration** : 
 ```In the initial phase of our project, we focus on understanding and exploring the dataset. This involves loading the data and delving into the characteristics of the available features. By performing exploratory data analysis (EDA), we gain insights into the distribution of variables, identify potential patterns, and understand the relationships between different features. This understanding guides us in selecting relevant features for our final model, laying the foundation for subsequent phases.``` 
