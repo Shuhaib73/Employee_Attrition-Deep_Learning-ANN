@@ -11,8 +11,11 @@
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :></strong> The Visual Insights 
+              <strong>​✒️<Click here to see :></strong> Employee Attrition Status 
               </Click>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' />
+                     </p>
        </summary>
 </details>
 
